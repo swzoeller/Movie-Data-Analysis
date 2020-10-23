@@ -19,6 +19,6 @@
 - Profit was measured in absolute terms and using Return on Investment (ROI):
   ROI = (Revenue - Budget) / Budget
 # Insights
-  From the dataset, animation was the most profitable genre, and generated the highest revenue
+  From the dataset, animation was the most profitable genre, along with generating the highest revenue
   
-  ![genre_roi](/Visualizations/Genre and Budget Analysis/Median ROI Genre.png)
+  ![genre](/Visualizations/Genre%20and%20Budget%20Analysis/Median%20ROI%20Genre.png)
