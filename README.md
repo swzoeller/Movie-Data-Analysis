@@ -21,4 +21,4 @@
 # Insights
   From the dataset, animation was the most profitable genre, and generated the highest revenue
   
-  ![genre_roi](/Visualizations/Genre and Budget Analysis/Genre ROI.png?raw=true)
+  ![genre_roi](/Visualizations/Genre and Budget Analysis/Median ROI Genre.png?raw=true)
