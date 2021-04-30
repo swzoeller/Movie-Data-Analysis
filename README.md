@@ -21,7 +21,7 @@
 ## Insights
   From the dataset, animation was the most profitable genre, along with generating the highest revenue.
   
-  <img src= "https://github.com/swzoeller/Movie-Data-Analysis/blob/main/Visualizations/Genre%20and%20Budget%20Analysis/Median%20ROI%20Genre.png" width="800" height="200"/>
+  <img src= "https://github.com/swzoeller/Movie-Data-Analysis/blob/main/Visualizations/Genre%20and%20Budget%20Analysis/Median%20ROI%20Genre.png" width="1000" height="300"/>
  
   Budget has a strong positive correlation with revenue. There is also a positive correlation with profits, but not as strong.
   
