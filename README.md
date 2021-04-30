@@ -29,11 +29,11 @@
  
   ROI has a weak positive correlation with rating. If the movie is at least of average quality, it can generate a high ROI.
   
-  <img src= "https://github.com/swzoeller/Movie-Data-Analysis/blob/main/Visualizations/Ratings%20Analysis/ROI%20vs%20Rating.png" width="600" height="400"/>
+  <img src= "https://github.com/swzoeller/Movie-Data-Analysis/blob/main/Visualizations/Ratings%20Analysis/ROI%20vs%20Rating.png" width="700" height="400"/>
   
   Movies released during December, June and July had higher revenues, possibly due to school holidays.
   
-  ![genre](/Visualizations/Release%20Month%20Analysis/Revenue%20by%20Release%20Month.png)
+  <img src= "https://github.com/swzoeller/Movie-Data-Analysis/blob/main/Visualizations/Release%20Month%20Analysis/Revenue%20by%20Release%20Month.png" width="700" height="400"/>
   
   ## Limitations
   
