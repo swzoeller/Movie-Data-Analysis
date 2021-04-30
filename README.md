@@ -25,8 +25,8 @@
  
   Budget has a strong positive correlation with revenue. There is also a positive correlation with profits, but not as strong.
   
-  ![genre](/Visualizations/Genre%20and%20Budget%20Analysis/Budget%20v%20Profit.png)
-
+  <img src= "https://github.com/swzoeller/Movie-Data-Analysis/blob/main/Visualizations/Genre%20and%20Budget%20Analysis/Budget%20v%20Profit.png" width="600" height="400"/>
+ 
   ROI has a weak positive correlation with rating. If the movie is at least of average quality, it can generate a high ROI.
   
   ![genre](/Visualizations/Ratings%20Analysis/ROI%20vs%20Rating.png)
